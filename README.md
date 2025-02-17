@@ -4,6 +4,9 @@ Description
 
 This lab is designed to analyze MAC addresses and their behavior in network communication using Cisco Packet Tracer. The focus is on understanding how MAC addresses change at different points in a network when packets travel between devices.
 
+![MAC Address Analysis](https://github.com/user-attachments/assets/5acb63a7-11b9-4a98-8c3a-bd0e1dff9e3b)
+![answer](https://github.com/user-attachments/assets/f3c757f4-e387-4a72-bde8-5fe88497cb02)
+
 Devices Used:
 
 Routers: R1, R2, R3
